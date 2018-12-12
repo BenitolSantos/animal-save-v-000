@@ -10,3 +10,8 @@ html {
 
 /* Write your solution here */
 
+@media only screen and (min-width:1186px) {
+  #bear { left: 800px; }
+}
+
+/* Overides absolution position because it keeps the bear within the max with */
